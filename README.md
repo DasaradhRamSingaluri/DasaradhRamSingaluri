@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET MAUI , ASP.NET**
 
-- 💬 Ask me about **Java,.NET,MSSQL,MongoDB**
+- 💬 Ask me about **Java,C#,.NET,MSSQL,MongoDB**
 
 - 📫 How to reach me **dasaradhramsingaluri@gmail.com**
 
